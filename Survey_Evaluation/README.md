@@ -21,7 +21,7 @@
 * Prezentace – klíčová zjištění a analytický přístup (2–3 slidy) 
 * Skript – originální skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
 
-# Řešení odevzdej do 31. května na r-challenge@kpmg.cz 
+## Řešení odevzdej do 31. května na r-challenge@kpmg.cz 
 
 
 
@@ -48,4 +48,4 @@
 * Presentation – key findings and analytical approach (2–3 slides) 
 * Script – original script used to analyze data, produce and visualize results
 
-#Submit by May 31st to r-challenge@kpmg.cz 
+## Submit by May 31st to r-challenge@kpmg.cz 
