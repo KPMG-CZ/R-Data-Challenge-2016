@@ -7,7 +7,7 @@ On the occasion of hosting next R Meetup in our offices in Prague we decided to 
 
 
 
-## * [Survey Evaluation](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Survey_Evaluation)
+### [Survey Evaluation](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Survey_Evaluation)
 
 **CZ**:
 Analyzuj data z dotazníkového šetření a pomoz nám zjistit, co si zaměstnanci myslí 
@@ -16,7 +16,7 @@ Analyzuj data z dotazníkového šetření a pomoz nám zjistit, co si zaměstna
 Analyze employee satisfaction survey and help us to discover what the employees think
 
 
-## * [Karlin Geo-Analysis](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Karlin_Geo_Analysis)
+### [Karlin Geo-Analysis](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Karlin_Geo_Analysis)
 
 **CZ**:
 Popiš okolí Karlína a pomoz nám ho analyzovat
