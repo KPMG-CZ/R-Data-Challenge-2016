@@ -24,7 +24,7 @@
 ## Řešení odevzdej do 31. května na r-challenge@kpmg.cz 
 
 
-
+---
 
 
 # Survey Evaluation
