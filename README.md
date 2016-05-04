@@ -1,10 +1,10 @@
 # R-Data-Challenge
 
-* [**Survey Evaluation**](#Survey Evaluation)
+* [**Survey Evaluation**](#survey-valuation)
 
 Analyze employee satisfaction survey and help us to discover what the employees think
 
-* [**Karlin Geo-Analysis**](#Karlin Geo-Analysis)
+* [**Karlin Geo-Analysis**](#karlin-geo-analysis)
 
 Describe the Karlin district and help us to analyze the area
 
