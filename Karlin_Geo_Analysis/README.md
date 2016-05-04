@@ -1,5 +1,4 @@
 # Geo-analýza Karlína
-Popiš okolí Karlína a pomoz nám ho analyzovat
 
 [English version](#karlin-geo-analysis)
 
