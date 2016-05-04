@@ -26,7 +26,7 @@
 
 #Karlin Geo-Analysis
 
-## Goal – Use R
+## Goal – Use R to
 * Describe and characterize the area and its parts and / or
 * Identify and categorize key businesses / points of interests and / or
 * Create attractive and informative visualizations
