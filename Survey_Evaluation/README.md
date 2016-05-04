@@ -1,4 +1,6 @@
-## Vyhodnocení dotazníku
+# Vyhodnocení dotazníku
+
+[English version](#survey-evaluation)
 
 ## Cíl – použij Rko a 
 * objev klíčové ukazatele (ne)spokojenosti zaměstnanců a / nebo
@@ -23,9 +25,9 @@
 
 
 
-[English version](#survey-evaluation)
 
-## #Survey Evaluation
+
+# Survey Evaluation
 
 ## Goal – Use R to
 * Discover key drivers of (dis)satisfaction among employees and / or
