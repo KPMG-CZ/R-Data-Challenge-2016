@@ -1,4 +1,6 @@
-# R-Data-Challenge
+# R Data Challenge
+
+On the occasion of hosting next R Meetup in our offices in Prague we decided to announce data challenge for both students and professionals. There are two different challenges which we would like to host workshops upon as a part of upcoming meetup.
 
 * [**Survey Evaluation**](#survey-evaluation)
 
