@@ -8,7 +8,7 @@ On the occasion of hosting next R Meetup in our offices in Prague we decided to 
 
 Analyze employee satisfaction survey and help us to discover what the employees think
 
-* [**Karlin Geo-Analysis**](#karlin-geo-analysis)
+* [**Karlin Geo-Analysis**](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Karlin_Geo_Analysis)
 
 Describe the Karlin district and help us to analyze the area
 
