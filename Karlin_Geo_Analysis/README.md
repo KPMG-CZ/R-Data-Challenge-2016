@@ -33,8 +33,8 @@
 
 ## Available Datasets
 
-* **osm_data.csv** - Contains data about Karlin from OpenStreetMap 
-* **instagram_data.csv** - Contains data about Instagram posts from Karlin locations from 1st Janury to 31st March
+* [**osm_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Karlin_Geo_Analysis/osm_data.csv) - Contains data about Karlin from OpenStreetMap 
+* [**instagram_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Karlin_Geo_Analysis/instagram_data.csv) - Contains data about Instagram posts from Karlin locations from 1st Janury to 31st March
 * In case of using additional dataset please include it in your submission
 
 ## Prizes for the best submissions
