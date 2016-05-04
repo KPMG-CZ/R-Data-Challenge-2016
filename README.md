@@ -14,7 +14,7 @@ Popiš okolí Karlína a pomoz nám ho analyzovat
 
 ### English version
 
-On the occasion of hosting next R Meetup in our offices in Prague we decided to announce data challenge for both students and professionals. There are two different challenges which we would like to host workshops upon as a part of upcoming [IV. Prague R Meetup](http://www.meetup.com/Prague-R-Meetup-Group/events/230654534/).
+On the occasion of hosting next R Meetup in our offices in Prague we decided to announce data challenge for students, professionals and other enthusiast. There are two different challenges which we would like to host workshops upon as a part of upcoming [IV. Prague R Meetup](http://www.meetup.com/Prague-R-Meetup-Group/events/230654534/).
 
 * [**Survey Evaluation**](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Survey_Evaluation)
 
