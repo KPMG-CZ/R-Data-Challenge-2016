@@ -1,6 +1,6 @@
 # R-Data-Challenge
 
-* [**Survey Evaluation**](#survey-valuation)
+* [**Survey Evaluation**](#survey-evaluation)
 
 Analyze employee satisfaction survey and help us to discover what the employees think
 
