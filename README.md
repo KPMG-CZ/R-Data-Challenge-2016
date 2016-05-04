@@ -18,7 +18,6 @@ Analyze employee satisfaction survey and help us to discover what the employees 
 * [**Karlin Geo-Analysis**](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Karlin_Geo_Analysis)
 
 **CZ**:
-
 Popiš okolí Karlína a pomoz nám ho analyzovat
 
 **EN**:
