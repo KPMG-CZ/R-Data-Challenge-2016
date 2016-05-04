@@ -10,7 +10,7 @@
 ## Dostupná data 
 * [**osm_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Karlin_Geo_Analysis/osm_data.csv) – obsahuje data Karlína z OpenStreetmap
 * [**instagram_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Karlin_Geo_Analysis/instagram_data.csv) – obsahuje data o postech z Instagramu pořízených v okolí Karlína
-* V případě použití jiného datasetu jej prosíme přiložte k odevzdávanému výstupu
+* V případě použití jiného datasetu jej prosíme přilož k odevzdávanému výstupu
 
 ## Ceny pro nejlepší řešení
 * Pro studenty – **stáž / stínování** 
