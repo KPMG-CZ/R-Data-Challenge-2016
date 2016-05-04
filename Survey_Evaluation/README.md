@@ -9,7 +9,7 @@
 
 ## Dostupná data
 
-* **survey_data.csv** – odpovědi na 45 otázek od 200+ zaměstnanců
+* [**survey_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Survey_Evaluation/survey_data.csv) – odpovědi na 45 otázek od 200+ zaměstnanců
  
 ## Ceny pro nejlepší řešení
 
@@ -36,7 +36,7 @@
 
 ## Available Datasets
 
-* **survey_data.csv** – Contains answers to 45 questions from 200+ employees
+* [**survey_data.csv**](https://github.com/KPMG-CZ/R-Data-Challenge/blob/master/Survey_Evaluation/survey_data.csv) – Contains answers to 45 questions from 200+ employees
 
 ## Prizes for the best submissions
 
