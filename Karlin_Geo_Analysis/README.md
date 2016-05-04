@@ -22,6 +22,7 @@
 
 ## Řešení odevzdej do 31. května na r-challenge@kpmg.cz 
 
+---
 
 #Karlin Geo-Analysis
 
@@ -34,8 +35,7 @@
 
 * **osm_data.csv** - Contains data about Karlin from OpenStreetMap 
 * **instagram_data.csv** - Contains data about Instagram posts from Karlin locations from 1st Janury to 31st March
-
-In case of using additional dataset please include it in your submission
+* In case of using additional dataset please include it in your submission
 
 ## Prizes for the best submissions
 
