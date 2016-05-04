@@ -1,8 +1,8 @@
-# R Data Challenge
+# KPMG R Data Challenge
 
 [English version](#english-version)
 
-U příležitosti hostování dalšího R Meetupu v našich pražských kancelářích jsme se rozhodli vyhlásit datovou challenge jak pro studenty, tak pro profesionály a další nadšence. Pro zájemce jsou k dispozici dvě rozdílné výzvy nad kterými bychom rádi hostovali workshopy jako součást nadcházejícího [IV. Prague R Meetup](http://www.meetup.com/Prague-R-Meetup-Group/events/230654534/).
+U příležitosti hostování dalšího R Meetupu v našich pražských kancelářích jsme se rozhodli vyhlásit datovou challenge jak pro studenty, tak pro profesionály a další nadšence. Pro zájemce jsou k dispozici dvě rozdílné výzvy, nad kterými bychom rádi hostovali workshopy jako součást nadcházejícího [IV. Prague R Meetup](http://www.meetup.com/Prague-R-Meetup-Group/events/230654534/).
 
 * [**Vyhodnocení dotazníku**](https://github.com/KPMG-CZ/R-Data-Challenge/tree/master/Survey_Evaluation)
 
