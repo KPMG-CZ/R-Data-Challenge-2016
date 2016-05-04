@@ -13,13 +13,13 @@
  
 ## Ceny pro nejlepší řešení
 
-* Pro studenty – stáž / stínování 
-* Pro odborníky – spolupráce / reference 
+* Pro studenty – **stáž / stínování** 
+* Pro odborníky – **spolupráce / reference** 
 
 ## Odevzdání
 
-* Prezentace – klíčová zjištění a analytický přístup (2–3 slidy) 
-* Skript – originální skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
+* **Prezentace** – klíčová zjištění a analytický přístup (2–3 slidy) 
+* **Skript** – originální skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
 
 ## Řešení odevzdej do 31. května na r-challenge@kpmg.cz 
 
@@ -40,12 +40,12 @@
 
 ## Prizes for the best submissions
 
-* For students – Internship / shadowing
-* For professionals – Cooperation / reference
+* For students – **Internship / shadowing**
+* For professionals – **Cooperation / reference**
 
 ## Submission
 
-* Presentation – key findings and analytical approach (2–3 slides) 
-* Script – original script used to analyze data, produce and visualize results
+* **Presentation** – key findings and analytical approach (2–3 slides) 
+* **Script** – original script used to analyze data, produce and visualize results
 
 ## Submit by May 31st to r-challenge@kpmg.cz 
